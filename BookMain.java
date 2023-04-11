@@ -9,17 +9,6 @@ public class BookMain {
     //    for(int i=0; i<bCollection.getLongBooks().size(); i++){
     //        System.out.println(bCollection.getLongBooks().get(i).getTitle());
     //    }
-
-
-        //System.out.println(bCollection.mostPopular());
         bCollection.mostPopular();
-
-    //    for(int i=0; i<bCollection.booksPopularity.size(); i++){
-    //        System.out.println(bCollection.booksPopularity.get(i).getTitle());
-    //    }
-
-
-
-
     }
 }
