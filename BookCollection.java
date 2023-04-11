@@ -39,11 +39,6 @@ public class BookCollection extends Book {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
-        //for (int i = 0; i < books.size(); i++) {
-            /* print book number in array list */
-            //System.out.println("** Book No."+ (i + 1)+" "+ books.get(i).getTitle());
-        //}
     }
 
     //3, Return a HashSet of all the authors in the book list//// It works
