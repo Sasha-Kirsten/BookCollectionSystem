@@ -18,10 +18,6 @@ public class Book {
         this.copiesOnLoan = copiesOnLoan;
     }
 
-    public Book() {
-
-    }
-
     public String getTitle() {
         return title;
     }
